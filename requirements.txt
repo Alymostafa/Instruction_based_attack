@@ -1,0 +1,9 @@
+datasets==2.19.0
+evaluate==0.4.1
+nltk==3.7
+pandas==1.5.3
+rouge-score==0.1.2
+torch==1.12.1
+tqdm==4.64.1
+transformers==4.24.0
+vllm==0.4.1
