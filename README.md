@@ -1,6 +1,6 @@
 # Alpaca against Vicuna: Using LLMs to Uncover Memorization of LLMs
 This is the official repository for "[Alpaca against Vicuna: Using LLMs to Uncover Memorization of LLMs](https://arxiv.org/pdf/2403.04801)"
-![image](https://github.com/user-attachments/assets/55b07778-881d-476d-ad92-2bd8f877ddbe)
+![358867270-55b07778-881d-476d-ad92-2bd8f877ddbe](https://github.com/user-attachments/assets/d4a2ba8a-3de6-4cc6-9955-ab78c0db6cee)
 
 ## Table of Contents
 
